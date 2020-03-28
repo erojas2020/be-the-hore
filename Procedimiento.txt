@@ -1,0 +1,17 @@
+NODEJS
+1. Instalar nodejs pelo cmd 
+2. Crear una pasta do projeto
+3. Ejecutar comando npm init -y (instalar packge.json)
+4. instalar framework Express, control de rutas. 
+	Comando: npm install express
+6.Instalar insomnia
+7. instalar nodemon, comando: npm install nodemon -D.
+8. Configuração package.json. Scripts "start": "nodemon index.js".
+
+REACT
+5.Instalar ReactJS comando: npx create-react-app frontend (error)
+ Comando: npm install -g create-react-app
+	  create-react-app frontend
+
+
+.Instalar
