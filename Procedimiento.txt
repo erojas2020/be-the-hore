@@ -7,11 +7,34 @@ NODEJS
 6.Instalar insomnia
 7. instalar nodemon, comando: npm install nodemon -D.
 8. Configuração package.json. Scripts "start": "nodemon index.js".
+9. Instalar knexjs.org
+             Comandos: npm install knex --save
+             Comandos: npm install sqlite3
+	     Comandos: npx knex init
+10. Reorganizar o codigo en carpetas
+11. cambiar la ruta de nodemon en packege.json
+12. criar as rutas
+13. criar a pasta banco de dados e configurar rota da banco em knexfile.js 
+em flename
+14. Identificar as entidades e funcionalidades.
+15. Criar migrations: 
+  15A. Criar pasta Migrations.
+  15b. Configurar route migration em knexfile.js.
+  15c. Ejecutar comando: npx knex migrate:make create-ongs
+  15d. useNullAsDefault: true
+  15e. create table 
+  15f. Correr a migrations comando: npx knex migrate:latest
+16.npm install cors
+ 
+
+
 
 REACT
-5.Instalar ReactJS comando: npx create-react-app frontend (error)
+1.Instalar ReactJS comando: npx create-react-app frontend (error)
  Comando: npm install -g create-react-app
 	  create-react-app frontend
 
+2. Limpiar Arquivos
+3. Instalacion de icone Comando: npm istall react-icons 
+4. Controle de rotas Comando: npm install react-router-dom
 
-.Instalar
